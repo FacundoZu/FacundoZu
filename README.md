@@ -59,7 +59,10 @@ Actualmente, estoy cursando el **último año de la Tecnicatura Universitaria en
 ## 📫 Contacto
 
 - **Email:** facundozuleta70@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-FacundoZu-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/facundozu/](https://www.linkedin.com/in/facundo-zuleta/))
+
+<a href="https://www.linkedin.com/in/facundo-zuleta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FacundoZu-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 ---
 
