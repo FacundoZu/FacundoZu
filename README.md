@@ -48,6 +48,12 @@ Actualmente, estoy cursando el **último año de la Tecnicatura Universitaria en
 
 ---
 
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=FacundoZu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="FacundoZu" 
+    bg_color=#808080/>
+</p> ![FacundoZu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FacundoZu&theme=tokyonight)
+
 ## 📫 Contacto
 
 - **Email:** facundozuleta70@gmail.com
