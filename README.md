@@ -8,11 +8,15 @@ Actualmente, estoy cursando el **último año de la Tecnicatura Universitaria en
 
 ## 💻 Tecnologías y Herramientas
 
-- **Lenguajes:** Python, Java, JavaScript, TypeScript  
-- **Frameworks / Librerías:** Django, React, Node.js, Express  
-- **Stacks:** MERN (MongoDB, Express, React, Node.js), PERN (PostgreSQL, Express, React, Node.js)  
-- **Bases de Datos:** MongoDB, PostgreSQL  
-- **Otras herramientas:** Git, GitHub, REST APIs, Postman  
+- **Lenguajes:**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,py,java,c)](https://skillicons.dev)
+- **Frameworks / Librerías:**
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,vite,django,laravel,prisma)](https://skillicons.dev)
+- **Stacks:** MERN (MongoDB, Express, React, Node.js), PERN (PostgreSQL, Express, React, Node.js)
+- **Bases de Datos:** MongoDB, PostgreSQL
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
+- **Otras herramientas:** Git, GitHub, REST APIs
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,bash,discord,notion)](https://skillicons.dev)
 
 ---
 
@@ -28,10 +32,14 @@ Aquí algunos proyectos que he desarrollado:
 
 ---
 
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=FacundoZu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
 ## 📫 Contacto
 
-- **GitHub:** [FacundoZu](https://github.com/FacundoZu)  
-- **Email:** facundo.tuemail@ejemplo.com *(cambia por tu email real)*  
+- **Email:** facundozuleta70@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FacundoZu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/facundozu/)
+
 
 ---
 
